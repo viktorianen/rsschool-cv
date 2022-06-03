@@ -18,7 +18,9 @@ I'm 28 years old. My goal is to become a mid-range frontend software developer. 
 
 ## Skills
 
-Html, CSS, JavaScript.
+1. Html
+2. CSS
+3. JavaScript.
 
 ## Code examples
 
