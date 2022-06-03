@@ -1,6 +1,6 @@
-![alt-текст](/ava-removebg-preview.png)
-
 # Petrov Victor
+
+![alt-текст](/ava-removebg-preview.png)
 
 ## Junior Software Engineer Front-end / JavaScript.
 
