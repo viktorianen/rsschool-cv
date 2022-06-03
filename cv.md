@@ -35,6 +35,10 @@ def friend(x):
     return myFriend
 ```
 
+## Projects
+
+https://viktorianen.github.io/
+
 ## Courses
 
 [Crash Course on Python](https://coursera.org/share/13fe3eae7850892165a53b04d3a534ab)
