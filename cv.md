@@ -32,3 +32,13 @@ def friend(x):
             myFriend.append(i)
     return myFriend
 ```
+
+## Courses
+
+https://coursera.org/share/13fe3eae7850892165a53b04d3a534ab
+
+## Languages
+
+English - elementary
+
+Russian - native
