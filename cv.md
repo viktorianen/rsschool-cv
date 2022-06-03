@@ -14,7 +14,7 @@ Telegtam: PetroVictor
 
 ## About Myself
 
-I'm 28 years old. My goal is to become a mid-range frontend software developer. I am currently working as a system administrator.
+I'm 28 years old. My goal is to become a mid-range frontend software developer. I am currently working as a system administrator. I studied python.
 
 ## Skills
 
