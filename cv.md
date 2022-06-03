@@ -1,6 +1,9 @@
-# Петров Виктор
+# Petrov Victor
 
-## Контакты для связи
+## Junior Software Engineer Front-end / JavaScript.
 
-Мобильный номер: +7-937-320-74-34
-Почта: petrov_v_viktor@mail.ru
+## Contacts
+
+Phone: +7-937-320-74-34
+Email: petrov_v_viktor@mail.ru
+Telegtam: PetroVictor
