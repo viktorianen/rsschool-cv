@@ -35,7 +35,7 @@ def friend(x):
 
 ## Courses
 
-https://coursera.org/share/13fe3eae7850892165a53b04d3a534ab
+[Crash Course on Python](https://coursera.org/share/13fe3eae7850892165a53b04d3a534ab)
 
 ## Languages
 
