@@ -22,3 +22,30 @@ I'm 28 years old. My goal is to become a front-end software developer. I am curr
    - SCSS
 3. JavaScript.
    - TypeScript
+
+## Code examples
+
+Friend or Foe?
+
+```
+var calculate = function(...x) {
+    return function(...y) {
+        return x.reduce((a,b) => a + b) + y.reduce((a,b) => a + b)
+
+    }
+}
+```
+
+## Projects
+
+https://viktorianen.github.io/
+
+## Courses
+
+[Crash Course on Python](https://coursera.org/share/13fe3eae7850892165a53b04d3a534ab)
+
+## Languages
+
+English - elementary
+
+Russian - native
